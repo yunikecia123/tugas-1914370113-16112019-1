@@ -1,8 +1,12 @@
 #include <stdio.h>
  int main ()
 {
-    int hasil=1,bil;
-
+	 printf("\tBIODATA PRIBADI\n\n");
+    printf("NAMA 		: ALICIA YUNIKE RIONA\n");
+    printf("NPM 		: 1914370113\n");
+    printf("KELAS 		: REGULER 1D\n");
+    printf("PRODI 		: SISTEM KOMPUTER\n");
+    printf("FAKULTAS	: SAINS & TEKNOLOGI\n");
     printf("Masukkan bilangan faktorial : ");
     scanf("%d",&bil);
     int faktorial;
